@@ -1,1 +1,1 @@
-web: node web.js 80
+web: node_modules/.bin/peerjs --port $PORT
